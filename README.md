@@ -1,13 +1,25 @@
 
+![Swift Version](https://img.shields.io/badge/Swift-3.0-red)
+
 # SwiftySwift
+
+# Requirements
+
+### Swift 3
+
+# Description
+
+Simplifies using Auto Layout and handling JSON data.
+
+# Installation
 
 ```
 pod 'JLSwiftySwift'
 ```
 
-=====
+# Examples
 
-AutoLayout Syntax Sugar DSL:
+### AutoLayout Syntax Sugar DSL:
 
 Converts this:
 
@@ -49,9 +61,7 @@ view.top + 8 |=| topLabel.top               // topLabel's top is 8 spacing below
 ```
 
 
-===============
-
-JSON
+### JSON
 
 ```swift
 
